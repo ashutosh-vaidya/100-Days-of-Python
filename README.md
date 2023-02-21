@@ -10,3 +10,4 @@ Each day new project is built, so it will be 100 projects in 100 days with diffi
 - [Day 004 Project - Rock-Paper-Scissors](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20004%20Project%20-%20Rock-Paper-Scissors)
 - [Day 005 Project - Password Generator Start](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20005%20Project%20-%20Password%20Generator%20Start)
 - [Day 006 Project - Reeborg's World - Maze](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20006%20Project%20-%20Reeborg's%20World%20-%20Maze)
+- [Day 007 Project - Hangman](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20007%20Project%20-%20Hangman)
