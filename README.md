@@ -15,3 +15,4 @@ Each day new project is built, so it will be 100 projects in 100 days with diffi
 - [Day 009 Project - Blind Auction](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20009%20Project%20-%20Blind%20Auction)
 - [Day 010 Project - Basic Calculator](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20010%20Project%20-%20Basic%20Calculator)
 - [Day 011 Project - BlackJack](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20011%20Project%20-%20Blackjack)
+- [Day 012 Project - Guess The Number](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20012%20Project%20-%20Guess%20The%20Number)
