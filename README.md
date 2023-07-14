@@ -19,6 +19,7 @@ Each day new project is built, so it will be 100 projects in 100 days with diffi
 - [Day 013 - Debug the code online](https://pythontutor.com/visualize.html#mode=edit)
 - [Day 014 Project - Higher or Lower](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20014%20Project%20-%20Higher%20or%20Lower)
 - [Day 015 Project - Coffee Machine](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20015%20Project%20-%20Coffiee%20Machine)
+- [Day 016 Project - Coffee Machine OOP](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20016%20Project%20-%20Coffee%20Machine%20OOP)
 
 ---
 
