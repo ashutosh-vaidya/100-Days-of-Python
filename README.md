@@ -18,3 +18,12 @@ Each day new project is built, so it will be 100 projects in 100 days with diffi
 - [Day 012 Project - Guess The Number](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20012%20Project%20-%20Guess%20The%20Number)
 - [Day 013 - Debug the code online](https://pythontutor.com/visualize.html#mode=edit)
 - [Day 014 Project - Higher or Lower](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20014%20Project%20-%20Higher%20or%20Lower)
+- [Day 015 Project - Coffee Machine](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20015%20Project%20-%20Coffiee%20Machine)
+
+---
+
+# Resources and References
+- [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
+- [PyCharm Doc](https://www.jetbrains.com/help/pycharm/getting-started.html)
+- [replit](https://replit.com/) 
+
