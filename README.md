@@ -21,11 +21,17 @@ Each day new project is built, so it will be 100 projects in 100 days with diffi
 - [Day 015 Project - Coffee Machine](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20015%20Project%20-%20Coffiee%20Machine)
 - [Day 016 Project - Coffee Machine OOP](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20016%20Project%20-%20Coffee%20Machine%20OOP)
 - [Day 017 Project - Quiz Game](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20017%20Project%20-%20Quiz%20Game)
+- [Day 018 Project - Intro to Turtle](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20018%20Project%20-%20Intro%20to%20Turtle)
 
 ---
 
 # Resources and References
 - [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
 - [PyCharm Doc](https://www.jetbrains.com/help/pycharm/getting-started.html)
-- [replit](https://replit.com/) 
+- [replit](https://replit.com/)
+- [turtle doc](https://docs.python.org/3/library/turtle.html)
+- [trinket Colors](https://trinket.io/docs/colors)
+- [What is random walk](https://en.wikipedia.org/wiki/Random_walk)
+- [Colors RGB](https://www.w3schools.com/colors/colors_rgb.asp)
+- [Colorgram](https://pypi.org/project/colorgram.py/)
 
