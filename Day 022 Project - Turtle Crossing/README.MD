@@ -12,7 +12,7 @@ This is similar to game [Crossy Road](https://play.google.com/store/apps/details
 7. The turtle then returns to its starting location, ready to cross the highway again, but with a higher level of difficulty (as difficulty increases, cars accelerate faster).
 
 ### Screenshot
-![Game Play](screenshot\game_play.png "Game Play")
+![Game Play](screenshot/game_play.png "Game Play")
 
 ### Refrences
 [How to restrict screen resizing](https://stackoverflow.com/questions/48629444/python-turtle-disable-window-resize)
