@@ -24,6 +24,7 @@ Each new project is built daily, so it will be 100 projects in 100 days with dif
 - [Day 018 Project - Intro to Turtle](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20018%20Project%20-%20Intro%20to%20Turtle)
 - [Day 019 Project - Turtle Race](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20019%20Project%20-%20Turtle%20Race)
 - [Day 020-021 Project - Basic Snake Game](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%2020%20Project%20-%20Snake)
+- [Day 022 Project - Crossy Turtle](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20022%20Project%20-%20Turtle%20Crossing)
 
 ---
 
