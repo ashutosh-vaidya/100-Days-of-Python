@@ -1,0 +1,2 @@
+This will overwrite everthing present in the file earlier.
+This will not overwrite everthing present, the new text will be at the end of file
