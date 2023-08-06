@@ -28,6 +28,7 @@ Each new project is built daily, so it will be 100 projects in 100 days with dif
 - [Day 023 Project - Pong game](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20023%20Project%20-%20Pong%20game)
 - [Day 024 Project - File Handling Basics](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20024%20Project%20-%20File%20Handling%20Basics)
 - [Day 024 Project - Mail Merge](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20024%20Project%20-%20Mail%20Merge)
+- [Day 025 Project - States of India Game](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20025%20Project%20-%20States%20of%20India%20Game%20(Intro%20to%20Pandas))
 
 ---
 
