@@ -27,6 +27,7 @@ Each new project is built daily, so it will be 100 projects in 100 days with dif
 - [Day 022 Project - Crossy Turtle](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20022%20Project%20-%20Turtle%20Crossing)
 - [Day 023 Project - Pong game](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20023%20Project%20-%20Pong%20game)
 - [Day 024 Project - File Handling Basics](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20024%20Project%20-%20File%20Handling%20Basics)
+- [Day 024 Project - Mail Merge](https://github.com/ashutosh-vaidya/100-Days-of-Python/tree/main/Day%20024%20Project%20-%20Mail%20Merge)
 
 ---
 
