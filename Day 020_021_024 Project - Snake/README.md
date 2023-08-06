@@ -12,13 +12,13 @@
 - [X] Control the Snake
 
 ### Day 21 Goal
-- [ ] Detect collision with food
-- [ ] Create a scoreboard
-- [ ] Detect a collision with the wall
-- [ ] Detect a collision with tail
+- [X] Detect collision with food
+- [X] Create a scoreboard
+- [X] Detect a collision with the wall
+- [X] Detect a collision with tail
 
 ### Day 24 Goal
-- [ ] Add and maintain highscores
+- [X] Add and maintain highscores
 
 ### TO DO: Future enhancements
 - [ ] Add difficulty levels
